@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "no desc",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dahalsuraj010/test.git"
+  },
+  "author": "suraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dahalsuraj010/test/issues"
+  },
+  "homepage": "https://github.com/dahalsuraj010/test#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
